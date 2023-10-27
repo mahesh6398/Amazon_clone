@@ -4,7 +4,7 @@
   font-family: Arial;
 }
 .logo {
-  background-image: url("logo.png");
+  background-image: url("assets/logo.png");
   height: 50px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -162,7 +162,7 @@
 .container {
   width: 80%;
   height: 32rem;
-  background-image: url("hero_image.jpg");
+  background-image: url("assets/hero_image.jpg");
   margin: auto;
   background-size: cover;
   position: relative;
